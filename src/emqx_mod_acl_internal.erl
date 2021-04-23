@@ -9,8 +9,6 @@
 -module(emqx_mod_acl_internal).
 -author("root").
 
--module(emqx_mod_acl_internal).
-
 -export([logger_header/0]).
 
 -behaviour(emqx_gen_mod).

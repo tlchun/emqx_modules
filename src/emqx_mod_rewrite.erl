@@ -9,8 +9,6 @@
 -module(emqx_mod_rewrite).
 -author("root").
 
--module(emqx_mod_rewrite).
-
 -behaviour(emqx_gen_mod).
 -include("../include/emqx.hrl").
 -include("../include/emqx_mqtt.hrl").

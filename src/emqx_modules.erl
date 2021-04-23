@@ -9,8 +9,6 @@
 -module(emqx_modules).
 -author("root").
 
--module(emqx_modules).
-
 -export([logger_header/0]).
 -include("../include/logger.hrl").
 
