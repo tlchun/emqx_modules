@@ -9,6 +9,7 @@
 -module(emqx_mod_subscription).
 -author("root").
 -behaviour(emqx_gen_mod).
+
 -include("../include/emqx_mqtt.hrl").
 -include("../include/emqx.hrl").
 
