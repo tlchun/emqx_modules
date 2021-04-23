@@ -21,6 +21,5 @@
               {env,[]},
               {licenses,["Apache-2.0"]},
               {maintainers,["EMQ X Team <contact@emqx.io>"]},
-              {links,[{"Homepage","https://emqx.io/"},
-                      {"Github","https://github.com/emqx/emqx-modules"}]},
+              {links,["Homepage","https://emqx.io/"]},
               {relup_deps,[emqx]}]}.
