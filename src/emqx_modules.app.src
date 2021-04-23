@@ -1,6 +1,6 @@
 {application,emqx_modules,
              [{description,"EMQ X Module Management"},
-              {vsn,"4.3.5"},
+              {vsn,"4.2.5"},
               {modules,
                 [emqx_mod_acl_internal,
                   emqx_mod_api_topic_metrics,
