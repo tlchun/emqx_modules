@@ -1,0 +1,2 @@
+-module(emqx_modules_registry).
+-author("root").
